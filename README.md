@@ -14,6 +14,11 @@ The show itself was broadcast live over YouTube with each episode featuring a sp
 
 Seeing as we were having such a good time, we decided to release the source code for a version of the application that would also allow you to play with your own decks. And here you have it: Open Crowd Source - Home Edition.
 
+Technical information
+=====================
+
+Open Crowd Source - Home Edition is a WinForms application written in C#, which runs on .NET 4.5. The included solution and project files are for Microsoft Visual Studio 2013.
+
 Credits
 =======
 
