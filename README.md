@@ -1,8 +1,4 @@
 # ocs_home
-Open Crowd Source - Home Edition
-
-Description
-===========
 
 You have stumbled upon the source code for a simple yet highly addictive party game known as "Open Crowd Source."
 
