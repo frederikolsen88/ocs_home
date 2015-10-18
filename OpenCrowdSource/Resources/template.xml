@@ -1,0 +1,26 @@
+<deck name="Template">
+  <location id="1">
+    <value>This is a location</value>
+    <played>1</played>
+  </location>
+  <modifier id="2">
+    <value>This is a modifier</value>
+    <played>1</played>
+  </modifier>
+  <character id="3">
+    <value>This is a character</value>
+    <played>1</played>
+  </character>
+  <task id="4">
+    <value>This is a task</value>
+    <played>1</played>
+  </task>
+  <minorTwist id="5">
+    <value>This is a minor twist which will occur approx. halfway through the game.</value>
+    <played>1</played>
+  </minorTwist>
+  <majorTwist id="6">
+    <value>This is a major twist which will occur right at the end.</value>
+    <played>1</played>
+  </majorTwist>
+</deck>

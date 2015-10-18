@@ -1,0 +1,166 @@
+<deck name="OCS S1 deck">
+  <location id="1">
+    <value>from Las Vegas</value>
+    <played>0</played>
+  </location>
+  <location id="2">
+    <value>from Boston</value>
+    <played>0</played>
+  </location>
+  <modifier id="3">
+    <value>with a plunger</value>
+    <played>0</played>
+  </modifier>
+  <minorTwist id="4">
+    <value>You know Loom? Do something like that.</value>
+    <played>0</played>
+  </minorTwist>
+  <majorTwist id="5">
+    <value>Guys, the accountant called and I'm in shit. This whole thing needs to be FMV. I have to claim the tax back on this $1500 camera.</value>
+    <played>0</played>
+  </majorTwist>
+  <character id="6">
+    <value>The ghost of Christmas Past</value>
+    <played>0</played>
+  </character>
+  <location id="7">
+    <value>whose image appears in a taco</value>
+    <played>0</played>
+  </location>
+  <location id="8">
+    <value>in the Gobi Desert</value>
+    <played>0</played>
+  </location>
+  <modifier id="9">
+    <value>despite the noise complaints</value>
+    <played>0</played>
+  </modifier>
+  <character id="10">
+    <value>An antiquarian</value>
+    <played>0</played>
+  </character>
+  <location id="11">
+    <value>from Providence</value>
+    <played>0</played>
+  </location>
+  <modifier id="12">
+    <value>with wiggle room for a prequel</value>
+    <played>0</played>
+  </modifier>
+  <task id="13">
+    <value>unite the warring families</value>
+    <played>0</played>
+  </task>
+  <character id="14">
+    <value>A punk chick</value>
+    <played>0</played>
+  </character>
+  <majorTwist id="15">
+    <value>You can't use anything until Roberta has. Every piece of plot and technology has to have appeared in the Kings Quest series first.</value>
+    <played>0</played>
+  </majorTwist>
+  <task id="16">
+    <value>secure the big account</value>
+    <played>0</played>
+  </task>
+  <task id="17">
+    <value>crash the wedding</value>
+    <played>0</played>
+  </task>
+  <modifier id="18">
+    <value>before their bladder explodes</value>
+    <played>0</played>
+  </modifier>
+  <modifier id="19">
+    <value>VIGOROUSLY!</value>
+    <played>0</played>
+  </modifier>
+  <minorTwist id="20">
+    <value>OK... what if... it was all a dream? Conversely, if it already was a dream, it should be real.</value>
+    <played>0</played>
+  </minorTwist>
+  <location id="21">
+    <value>from the 1970s</value>
+    <played>0</played>
+  </location>
+  <location id="22">
+    <value>from East Germany</value>
+    <played>0</played>
+  </location>
+  <modifier id="23">
+    <value>twice</value>
+    <played>0</played>
+  </modifier>
+  <minorTwist id="24">
+    <value>A major tobacco company will pay us to have cigarettes in this thing. Make them part of the main plot. And market the game to kids.</value>
+    <played>0</played>
+  </minorTwist>
+  <character id="25">
+    <value>An elf</value>
+    <played>0</played>
+  </character>
+  <character id="26">
+    <value>The Pope</value>
+    <played>0</played>
+  </character>
+  <minorTwist id="27">
+    <value>Market says kittens are adorable - base the key scene in the middle of the game on loads of cute, fluffy kittens.</value>
+    <played>0</played>
+  </minorTwist>
+  <majorTwist id="28">
+    <value>Just heard X Files is making a comeback. This has to be an alien supernatural thriller.</value>
+    <played>0</played>
+  </majorTwist>
+  <minorTwist id="29">
+    <value>Guys: did you know chicks play games? Add a pony.</value>
+    <played>0</played>
+  </minorTwist>
+  <majorTwist id="30">
+    <value>Wow. Just seen the cast for the new Ghostbusters movie. Whatever gender the main character has - switch it.</value>
+    <played>0</played>
+  </majorTwist>
+  <majorTwist id="31">
+    <value>Hmm. Our compression algorithm sucks. Can half of this game fit onto one CD?</value>
+    <played>0</played>
+  </majorTwist>
+  <majorTwist id="32">
+    <value>We got Richard Gere and Julia Roberts to sign a contract. This game has to effectively be Pretty Woman II in all but name.</value>
+    <played>0</played>
+  </majorTwist>
+  <majorTwist id="33">
+    <value>Just got back from watching Guardians of the Galaxy. Amazing. Right - this needs to be a musical, using the 1970s greatest hits.</value>
+    <played>0</played>
+  </majorTwist>
+  <character id="34">
+    <value>Adolf Hitler</value>
+    <played>0</played>
+  </character>
+  <character id="35">
+    <value>Mohandas Gandhi</value>
+    <played>0</played>
+  </character>
+  <modifier id="36">
+    <value>before realising that they are the true vilain of the piece</value>
+    <played>0</played>
+  </modifier>
+    <task id="37">
+    <value>renovate a small family home</value>
+    <played>0</played>
+  </task>
+  <task id="38">
+    <value>enlighten the western world</value>
+    <played>0</played>
+  </task>
+  <task id="39">
+    <value>learn how to live again</value>
+    <played>0</played>
+  </task>
+  <minorTwist id="40">
+    <value>Players love secrets. Make sure you include plenty of easter eggs and a bunch of cheat codes.</value>
+    <played>0</played>
+  </minorTwist>
+  <minorTwist id="41">
+    <value>We need sponsorship for this. Base the game around a toy franchise. Not Lego.</value>
+    <played>0</played>
+  </minorTwist>
+</deck>
